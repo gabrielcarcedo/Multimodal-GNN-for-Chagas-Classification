@@ -31,9 +31,7 @@ $^{2}$ *Unidad Académica del Instituto de Investigaciones en Matemáticas Aplic
 \* *Corresponding Authors*
 
 **Acknowledgements**
--Gabriel Carcedo-Rodríguez is grateful to SECIHTI for the scholarship received (CVU 2054635).
--Special thanks to PhD. Paulina Haro from the Veterinary Science Research Institute, UABC, for her invaluable clinical advice.
--This work was supported by UNAM-PAPIIT programs: IT101225, IN102626, and IG101725.
+Gabriel Carcedo-Rodríguez is grateful to SECIHTI for the scholarship received (CVU 2054635). Special thanks to PhD. Paulina Haro from the Veterinary Science Research Institute, UABC, for her invaluable clinical advice. This work was supported by UNAM-PAPIIT programs: IT101225, IN102626, and IG101725.
 
 *License*
 This project is licensed under the MIT License - see the https://www.google.com/search?q=LICENSE file for details.
